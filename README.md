@@ -1,6 +1,6 @@
 # Zio Qwiic Loudness Sensor I2C
 
-![](loudness.JPG)
+![](loudness.png)
 
 > This product can be available for purchase [here](https://www.smart-prototyping.com/Zio-Qwiic-Loudness-Sensor-I2C).
 
