@@ -4,6 +4,7 @@
 
 > This product can be available for purchase [here](https://www.smart-prototyping.com/Zio-Qwiic-Loudness-Sensor-I2C).
 
+Check this [RPI Library](https://github.com/l33tllama/Zio-Loudness-Sensor-Python). 
 
 
 #### Description
